@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e10f31c0c56f04f8563cde896e1cb5, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: 
+  Name: Sunder
+  manaCost: 1
+  damage: 3
+  critChance: 50
+  comboFriendly: 0
+  card: {fileID: 21300000, guid: cce4e5bb687525d42a85d3b2faeff753, type: 3}
+  icon: {fileID: 21300000, guid: 282b454afdfa0b34bb6753e8c55e670d, type: 3}

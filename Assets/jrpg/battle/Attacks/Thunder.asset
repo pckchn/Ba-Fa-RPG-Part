@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e10f31c0c56f04f8563cde896e1cb5, type: 3}
+  m_Name: Thunder
+  m_EditorClassIdentifier: 
+  Name: Requiem Of Souls
+  manaCost: 1
+  damage: 2
+  critChance: 18
+  comboFriendly: 1
+  card: {fileID: 21300000, guid: 70cdf8c8f6421ee47b118348734409ed, type: 3}
+  icon: {fileID: 21300000, guid: 951a952f9bcc6314895aab2f3ebfca90, type: 3}
